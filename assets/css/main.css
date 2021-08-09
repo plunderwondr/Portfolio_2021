@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #55CDFC 15%, #F7A8B8 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #55CDFC 15%, #f1c0ca 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #55CDFC 15%, #F7A8B8 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #55CDFC 15%, #F7A8B8 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #55CDFC 15%, #F7A8B8 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #55CDFC 15%, #f1c0ca 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #55CDFC 15%, #f1c0ca 85%);
 		/* F7A8B8
 		55CDFC */
 	}
@@ -3413,7 +3413,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #8cc9f0;
+				background-color: #F7A8B8;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
